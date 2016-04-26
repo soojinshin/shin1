@@ -7,12 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-test
-<h2>dfkdkdkdkdk</h2>
-
-<h2>third push</h2>
-
-<h2>gitpush</h2>
-
+<h2>fix</h2>
 </body>
 </html>
